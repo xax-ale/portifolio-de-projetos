@@ -1,0 +1,134 @@
+Hey! Good to have you here 🫡
+Let me introduce myself, I'm Alê.
+Data Analyst and Programmer
+Spreadsheets
+Dashboards
+Everything
+Web
+About
+Administrative spreadsheet:
+ I've built a highly integrated management solution using 39 Google Sheets. This system leverages advanced functions, data validation, and automated calculations to seamlessly connect multiple spreadsheets.
+ Read More
+ Project with Google Sheets
+ This structure allows for instant communication between HR and accounting departments, optimized for accurately calculating company profits and expenses.
+ features :
+ Full Integration: The spreadsheet integrates multiple functions and departments, ensuring that changes made in one area are automatically updated in others, simplifying the management of products, employees, vacancies, and inventory.
+ High Efficiency: Handling a large volume of interconnected data, the system is designed to ensure quick and accurate value updates and maintenance, minimizing the risk of errors.
+ Customization and Adaptation: The system is flexible and can be customized to meet the specific needs of any business, regardless of the volume or complexity of operations.
+ Data Integrity and Security: Integrated data validation eliminates manual errors and guarantees data integrity, offering a secure and reliable business management solution.
+ This solution is perfect for businesses seeking to optimize operations, improve cross-functional communication, and maintain data integrity, regardless of industry or scale. It can also be readily configured as a management dashboard.
+ Spressheets link
+ HR
+ accounting
+ Example spreadsheet image
+ Collapse
+ Text to Spreadsheet Converter
+ I developed a JavaScript code that facilitates the transformation of copied, pasted, or CSV file texts into automatically formatted spreadsheets ...
+ Read more
+ Project using Google App Script
+ This project is ideal for those who need to quickly and easily convert textual data into spreadsheets.
+ Project Features:
+ Automatic Conversion: The code converts copied, pasted, or CSV file texts into an organized spreadsheet automatically.
+ Instant Formatting: The system automatically adjusts the font size and colors for better visualization.
+ Flexible Input: Accepts different types of input, whether it's simple text separated by commas or CSV files.
+ Ease of Use: The process is simple and eliminates the need for manual formatting, saving time.
+ This project is a practical solution for quickly and accurately transforming textual data into formatted spreadsheets.
+ GitHub Link
+ Project Link
+ Collapse
+ Management Dashboard
+ I developed a comprehensive management dashboard that integrates 39 CSV-format spreadsheets, transforming this data into interactive charts to efficiently monitor profits and expenses...
+ Read more
+ Project with Power BI and Power Query
+ Using Power BI and Power Query, this system offers a detailed and dynamic view of the company's finances.
+ Features:
+ Automated Data Transformation: The data from the 39 CSV spreadsheets is automatically transformed and integrated into Power BI, facilitating data analysis and visualization.
+ Interactive Charts: The dashboard presents dynamic charts that allow detailed and intuitive analysis of profits and expenses, aiding strategic decision-making.
+ Integration with Power Query: Using Power Query, the system processes and cleans the data, ensuring that the presented information is accurate and up-to-date.
+ Global and Detailed View: Provides both an overall and detailed view of the company's finances, enabling you to track trends and identify areas for improvement.
+ Adaptability: The system is flexible and can be adapted to meet the specific needs of any company, regardless of the volume or complexity of operations.
+ This dashboard is ideal for companies looking to optimize financial management, improve communication between departments, and ensure data accuracy, providing a powerful and efficient solution for analyzing profits and expenses.
+ Dashboard Link
+ Power BI Link
+ Dashboard
+ Collapse
+ Dashboard with DAX
+ Read more
+ Project with Power BI, Power Query, and DAX
+ This system centralizes all data in a single spreadsheet, with no need for manual edits, automatically performing all parameters and relationships.
+ Features:
+ Automatic Data Validation: Using DAX, the dashboard automatically validates data, ensuring the integrity and accuracy of the information.
+ Spreadsheet Relationships: The system creates and maintains relationships between various spreadsheets, integrating data cohesively and facilitating analysis.
+ Data Centralization: All data is centralized in a single spreadsheet, eliminating the need for manual edits and simplifying management.
+ Complete Automation: Parameters and relationships are automatically defined by the dashboard, reducing workload and minimizing errors.
+ Efficiency and Accuracy: Continuous data automation and validation ensure that information is always correct and up-to-date.
+ This dashboard is ideal for companies seeking an efficient and automated data management solution, providing an integrated and accurate view of information without the need for manual interventions.
+ Dashboard Link
+ Power BI Link
+ Dashboard
+ Collapse
+ Dashboard with Python, Pandas, and Streamlit
+ I developed an advanced management dashboard using Python, Pandas, and Streamlit, which centralizes and processes data automatically, offering a dynamic and interactive visualization...
+ Read more
+ Project with Python, Pandas, and Streamlit
+ Management Dashboard: Traditional vs. Python
+ Traditionally, creating dashboards involves time-consuming manual processes, from data import to generating charts and reports. This can require specific skills in various tools and considerable time for setup and maintenance. Conversely, a dashboard built with Python, using libraries like Pandas and Streamlit, can be developed quickly and efficiently, automating much of the work and offering unparalleled flexibility and customization.
+ Features:
+ Data Processing with Pandas: Using Pandas, data is processed and manipulated efficiently, ensuring cleanliness and organization of the information.
+ Interactive Visualization with Streamlit: Streamlit allows the creation of interactive and dynamic dashboards, facilitating real-time data analysis.
+ Complete Automation: The system automates data import, processing, and visualization, significantly reducing manual workload.
+ Flexibility and Customization: Python allows total flexibility in developing the dashboard, adapting it to the specific needs of each company.
+ Scalability: The dashboard can be easily scaled to meet the needs of growing companies, handling large volumes of data.
+ This dashboard is an ideal choice for companies looking to leverage the power of Python for data management, offering a highly efficient and customizable solution for visualizing and analyzing information.
+ Dashboard Link
+ Streamlit Link
+ Dashboard Image
+ Collapse
+ Welcome to my project portfolio
+ I am excited to share with you the projects I have developed over time. This portfolio is a collection of my work, where each project is an expression of my enthusiasm for technology and innovation.
+ Here, you will find everything from complex management and automation solutions to interactive dashboards that facilitate data visualization and analysis. Each project was designed to solve real problems, bringing efficiency and practicality to various areas.
+ I believe that the best way to understand my skills and work style is by exploring the projects I have prepared. I hope they not only demonstrate my capabilities but also inspire new ideas and collaborations.
+ Management Spreadsheet and Dashboard
+ In this project, I developed a comprehensive management solution for a company with three branches and one headquarters...
+ Read more
+ Project with Google AppScript, Google Sheets, Power BI, and Power Query
+ Using App Script, I created 39 interlinked spreadsheets that facilitate communication and data integration between different areas of the company.
+
+ How it was done:
+ Creation of Spreadsheets with App Script: I developed 39 spreadsheets in Google Sheets, each focused on different aspects of management, including products, employees, open positions, and inventory. The spreadsheets are interlinked, allowing data to communicate automatically.
+ Implementation of Relationships and Functions: I used advanced functions and data validation to ensure consistency and accurate data exchange between the spreadsheets. This involves automatic calculations and real-time updates between the headquarters and branches.
+ Data Cleaning and Preparation with Power Query: After setting up the spreadsheets, I used Power Query to extract and clean the data, focusing only on the information needed for performance analysis. This process ensured that the data was organized and ready for use in the dashboard.
+ Dashboard Development: I created an interactive dashboard that uses the prepared data to provide clear and dynamic visualizations of the company's profits and expenses. The dashboard is directly fed by the spreadsheets, ensuring that the information is always up-to-date.
+ This project demonstrates how combining App Script and Power Query can result in a robust and efficient data management solution, facilitating decision-making and performance analysis.
+ Dashboard Link
+ Power BI Link
+ Dashboard Image
+ Collapse
+ Automated Text to Spreadsheet Tool
+ I developed a JavaScript tool that automates the conversion of copied or pasted text, or CSV files, into clean, formatted spreadsheets with automatic font size and color adjustments.
+ Features:
+ Simple Usage: Paste any text or upload a CSV file and the tool instantly formats the data into a clean spreadsheet layout.
+ Customizable Formatting: Automatically adjusts font size, colors, and alignment to enhance readability.
+ Supports Various Input Types: Works with plain text separated by delimiters or structured CSV files.
+ Efficient and Time-saving: Eliminates manual formatting work, saving time and effort.
+ This tool is perfect for users who regularly work with data imports and need fast, consistent spreadsheet formatting.
+ GitHub Link
+ Project Link
+ Collapse
+ Portfolio Website
+ Developed a responsive, clean, and modern portfolio website using Astro and Bootstrap, designed to showcase projects and skills effectively.
+ Features:
+ Responsive Design: The site adapts to various screen sizes and devices.
+ Dark Mode: Automatically switches according to system preferences.
+ Interactive Animations: Smooth transitions and interactive elements enhance user experience.
+ Customizable Content: Easy to update texts, images, and project links.
+ No Templates Used: Fully custom-built to ensure originality and uniqueness.
+ The site effectively presents my technical skills and projects, creating a professional online presence.
+ GitHub Link
+ Site Link
+ Collapse
+ Contact
+ Feel free to reach out via email or social networks. I’m open to collaborations and new projects.
+ Email: ale@example.com
+ LinkedIn: linkedin.com/in/ale
+ GitHub: github.com/xax-ale
