@@ -166,8 +166,14 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Verifica o idioma salvo ou usa 'en' como padrão
-  const savedLang = localStorage.getItem('lang') || 'en';
-  setLanguage(savedLang);
+  let langToUse = 'en'; // padrão
+  if (savedLang) {
+    langToUse = savedLang;
+  } else if (browserLang.startsWith('pt')) {
+    langToUse = 'pt';
+  }
+
+  setLanguage(langToUse);
 
   // Eventos dos botões
   document.getElementById('btn-en')?.addEventListener('click', () => setLanguage('en'));
