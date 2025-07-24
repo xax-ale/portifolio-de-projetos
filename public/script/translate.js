@@ -166,11 +166,11 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Verifica o idioma salvo ou usa 'en' como padrão
-  let langToUse = 'en'; // padrão
+  let langToUse = 'pt'; // padrão
   if (savedLang) {
     langToUse = savedLang;
-  } else if (browserLang.startsWith('pt')) {
-    langToUse = 'pt';
+  } else if (browserLang.startsWith('en')) {
+    langToUse = 'en';
   }
 
   setLanguage(langToUse);
